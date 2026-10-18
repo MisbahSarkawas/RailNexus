@@ -1,0 +1,5 @@
+section_id,start_station,end_station,distance_km,minimum_headway_min,capacity
+SEC_CSMT_BYCULLA,CSMT,Byculla,4.0,2.0,2
+SEC_BYCULLA_DADAR,Byculla,Dadar,5.0,2.0,2
+SEC_DADAR_KURLA,Dadar,Kurla,8.0,3.0,2
+SEC_KURLA_THANE,Kurla,Thane,17.0,3.0,2

@@ -1,0 +1,6 @@
+station_id,name,station_type,platform_count,minimum_dwell_time_min
+CSMT,CSMT,TERMINUS,4,2.0
+Byculla,Byculla,REGULAR,2,1.0
+Dadar,Dadar,JUNCTION,4,2.0
+Kurla,Kurla,JUNCTION,4,2.0
+Thane,Thane,TERMINUS,4,2.0

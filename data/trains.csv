@@ -1,0 +1,5 @@
+train_id,train_type,origin,destination,scheduled_departure_min,priority,nominal_speed_kmph
+T101,LOCAL,CSMT,Thane,0.0,2,40.0
+T102,FAST_LOCAL,CSMT,Thane,4.0,3,55.0
+T103,EXPRESS,CSMT,Thane,7.0,4,65.0
+T104,LOCAL,CSMT,Thane,10.0,2,40.0
